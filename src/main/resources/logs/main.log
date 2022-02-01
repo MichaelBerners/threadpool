@@ -1,0 +1,75 @@
+2022-02-01 11:05:11,361 +0300 [pool-1-thread-1] INFO  (Transaction.java:56) - pool-1-thread-1 перевод со счета: KMhI7 на счет: 7r1zS - сумма: 3163
+2022-02-01 11:05:11,365 +0300 [pool-1-thread-3] INFO  (Transaction.java:56) - pool-1-thread-3 перевод со счета: 7r1zS на счет: 9tZyv - сумма: 1056
+2022-02-01 11:05:11,366 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: 9tZyv на счет: KMhI7 - сумма: 4417
+2022-02-01 11:05:11,368 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: KMhI7 на счет: OwJM6 - сумма: 3531
+2022-02-01 11:05:11,368 +0300 [pool-1-thread-6] INFO  (Transaction.java:56) - pool-1-thread-6 перевод со счета: OwJM6 на счет: 9tZyv - сумма: 2926
+2022-02-01 11:05:11,371 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: 9tZyv на счет: OwJM6 - сумма: 4215
+2022-02-01 11:05:11,371 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: OwJM6 на счет: KMhI7 - сумма: 762
+2022-02-01 11:05:12,410 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 7
+2022-02-01 11:05:12,410 +0300 [pool-1-thread-6] INFO  (Transaction.java:56) - pool-1-thread-6 перевод со счета: OwJM6 на счет: 7r1zS - сумма: 2639
+2022-02-01 11:05:12,510 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 8
+2022-02-01 11:05:12,616 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 8
+2022-02-01 11:05:12,616 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: 7r1zS на счет: OwJM6 - сумма: 3046
+2022-02-01 11:05:12,711 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 9
+2022-02-01 11:05:12,712 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: 7r1zS на счет: KMhI7 - сумма: 616
+2022-02-01 11:05:12,823 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 10
+2022-02-01 11:05:12,951 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 10
+2022-02-01 11:05:13,012 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 10
+2022-02-01 11:05:13,182 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 10
+2022-02-01 11:05:13,182 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: 9tZyv на счет: 7r1zS - сумма: 1268
+2022-02-01 11:05:13,526 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 11
+2022-02-01 11:05:14,275 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 11
+2022-02-01 11:05:14,275 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: 7r1zS на счет: KMhI7 - сумма: 1256
+2022-02-01 11:05:14,306 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 12
+2022-02-01 11:05:14,306 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: 9tZyv на счет: KMhI7 - сумма: 3396
+2022-02-01 11:05:14,387 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 13
+2022-02-01 11:05:14,387 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: KMhI7 на счет: 7r1zS - сумма: 4722
+2022-02-01 11:05:14,441 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 14
+2022-02-01 11:05:14,441 +0300 [pool-1-thread-2] INFO  (Transaction.java:56) - pool-1-thread-2 перевод со счета: OwJM6 на счет: KMhI7 - сумма: 2663
+2022-02-01 11:05:14,464 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 15
+2022-02-01 11:05:14,464 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: 7r1zS на счет: KMhI7 - сумма: 3470
+2022-02-01 11:05:14,501 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 16
+2022-02-01 11:05:14,738 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 16
+2022-02-01 11:05:14,825 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 16
+2022-02-01 11:05:14,834 +0300 [pool-1-thread-6] ERROR (Transaction.java:64) - на счете : 686 требуется перевести: 4094
+2022-02-01 11:05:15,412 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 16
+2022-02-01 11:05:15,412 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: OwJM6 на счет: 9tZyv - сумма: 1825
+2022-02-01 11:05:15,675 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 17
+2022-02-01 11:05:15,675 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: 7r1zS на счет: 9tZyv - сумма: 650
+2022-02-01 11:05:15,811 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 18
+2022-02-01 11:05:15,864 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 18
+2022-02-01 11:05:15,864 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: 7r1zS на счет: KMhI7 - сумма: 3436
+2022-02-01 11:05:16,109 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 19
+2022-02-01 11:05:16,109 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: OwJM6 на счет: KMhI7 - сумма: 4463
+2022-02-01 11:05:16,216 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 20
+2022-02-01 11:05:16,293 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 20
+2022-02-01 11:05:16,503 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 20
+2022-02-01 11:05:16,503 +0300 [pool-1-thread-3] INFO  (Transaction.java:56) - pool-1-thread-3 перевод со счета: 7r1zS на счет: KMhI7 - сумма: 3841
+2022-02-01 11:05:16,710 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 21
+2022-02-01 11:05:16,710 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: 9tZyv на счет: 7r1zS - сумма: 106
+2022-02-01 11:05:16,737 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 22
+2022-02-01 11:05:16,737 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: OwJM6 на счет: 9tZyv - сумма: 53
+2022-02-01 11:05:17,067 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 23
+2022-02-01 11:05:17,067 +0300 [pool-1-thread-1] ERROR (Transaction.java:64) - на счете : 3108 требуется перевести: 3225
+2022-02-01 11:05:17,395 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 23
+2022-02-01 11:05:17,395 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: KMhI7 на счет: 7r1zS - сумма: 1199
+2022-02-01 11:05:17,573 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 24
+2022-02-01 11:05:17,573 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: 7r1zS на счет: KMhI7 - сумма: 2787
+2022-02-01 11:05:17,822 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 25
+2022-02-01 11:05:17,822 +0300 [pool-1-thread-3] INFO  (Transaction.java:56) - pool-1-thread-3 перевод со счета: OwJM6 на счет: 9tZyv - сумма: 2396
+2022-02-01 11:05:18,121 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 26
+2022-02-01 11:05:18,121 +0300 [pool-1-thread-2] INFO  (Transaction.java:56) - pool-1-thread-2 перевод со счета: 9tZyv на счет: 7r1zS - сумма: 4205
+2022-02-01 11:05:18,199 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 27
+2022-02-01 11:05:18,199 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: 9tZyv на счет: 7r1zS - сумма: 132
+2022-02-01 11:05:18,206 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 28
+2022-02-01 11:05:18,206 +0300 [pool-1-thread-6] INFO  (Transaction.java:56) - pool-1-thread-6 перевод со счета: KMhI7 на счет: OwJM6 - сумма: 4600
+2022-02-01 11:05:18,213 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 29
+2022-02-01 11:05:18,213 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: KMhI7 на счет: OwJM6 - сумма: 4672
+2022-02-01 11:05:18,665 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 30
+2022-02-01 11:05:18,945 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 30
+2022-02-01 11:05:19,017 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 30
+2022-02-01 11:05:19,155 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 30
+2022-02-01 11:05:19,278 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 30
+2022-02-01 11:05:19,381 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 30
+2022-02-01 11:05:19,686 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 30
+2022-02-01 11:05:19,766 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 30

@@ -1,0 +1,93 @@
+2022-02-01 11:25:11,068 +0300 [pool-1-thread-1] INFO  (Transaction.java:56) - pool-1-thread-1 перевод со счета: HP5MA на счет: YXVOh - сумма: 1584
+2022-02-01 11:25:11,071 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: HP5MA на счет: m4roD - сумма: 4827
+2022-02-01 11:25:12,101 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 2
+2022-02-01 11:25:12,131 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 2
+2022-02-01 11:25:12,157 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 2
+2022-02-01 11:25:13,891 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 2
+2022-02-01 11:25:24,707 +0300 [pool-1-thread-1] INFO  (Transaction.java:56) - pool-1-thread-1 перевод со счета: b9CsK на счет: EgIBM - сумма: 2349
+2022-02-01 11:25:24,713 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: EgIBM на счет: abNAY - сумма: 2263
+2022-02-01 11:25:24,713 +0300 [pool-1-thread-2] INFO  (Transaction.java:56) - pool-1-thread-2 перевод со счета: EgIBM на счет: kEE0c - сумма: 4947
+2022-02-01 11:25:24,715 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: kEE0c на счет: b9CsK - сумма: 204
+2022-02-01 11:25:24,716 +0300 [pool-1-thread-6] INFO  (Transaction.java:56) - pool-1-thread-6 перевод со счета: EgIBM на счет: b9CsK - сумма: 2929
+2022-02-01 11:25:24,716 +0300 [pool-1-thread-3] INFO  (Transaction.java:56) - pool-1-thread-3 перевод со счета: abNAY на счет: kEE0c - сумма: 659
+2022-02-01 11:25:25,735 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 6
+2022-02-01 11:25:25,783 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 6
+2022-02-01 11:25:25,790 +0300 [pool-1-thread-3] ERROR (Transaction.java:64) - на счете : 2210 требуется перевести: 4296
+2022-02-01 11:25:25,941 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 6
+2022-02-01 11:25:25,941 +0300 [pool-1-thread-1] INFO  (Transaction.java:56) - pool-1-thread-1 перевод со счета: kEE0c на счет: abNAY - сумма: 304
+2022-02-01 11:25:26,050 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 7
+2022-02-01 11:25:26,050 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: EgIBM на счет: b9CsK - сумма: 543
+2022-02-01 11:25:26,295 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 8
+2022-02-01 11:25:26,295 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: b9CsK на счет: kEE0c - сумма: 3656
+2022-02-01 11:25:26,377 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 9
+2022-02-01 11:25:26,380 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: EgIBM на счет: abNAY - сумма: 84
+2022-02-01 11:25:26,511 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 10
+2022-02-01 11:25:26,630 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 10
+2022-02-01 11:25:26,630 +0300 [pool-1-thread-6] INFO  (Transaction.java:56) - pool-1-thread-6 перевод со счета: b9CsK на счет: EgIBM - сумма: 3034
+2022-02-01 11:25:27,186 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 11
+2022-02-01 11:25:27,186 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: b9CsK на счет: abNAY - сумма: 3820
+2022-02-01 11:25:27,204 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 12
+2022-02-01 11:25:27,204 +0300 [pool-1-thread-1] INFO  (Transaction.java:56) - pool-1-thread-1 перевод со счета: abNAY на счет: kEE0c - сумма: 3792
+2022-02-01 11:25:27,280 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 13
+2022-02-01 11:25:27,280 +0300 [pool-1-thread-3] ERROR (Transaction.java:64) - на счете : 817 требуется перевести: 1589
+2022-02-01 11:25:27,488 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 13
+2022-02-01 11:25:27,488 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: EgIBM на счет: kEE0c - сумма: 365
+2022-02-01 11:25:27,559 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 14
+2022-02-01 11:25:27,559 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: EgIBM на счет: kEE0c - сумма: 936
+2022-02-01 11:25:27,701 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 15
+2022-02-01 11:25:28,221 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 15
+2022-02-01 11:25:28,221 +0300 [pool-1-thread-1] INFO  (Transaction.java:56) - pool-1-thread-1 перевод со счета: EgIBM на счет: abNAY - сумма: 1928
+2022-02-01 11:25:28,409 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 16
+2022-02-01 11:25:28,409 +0300 [pool-1-thread-2] INFO  (Transaction.java:56) - pool-1-thread-2 перевод со счета: kEE0c на счет: EgIBM - сумма: 4079
+2022-02-01 11:25:28,417 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 17
+2022-02-01 11:25:28,417 +0300 [pool-1-thread-6] ERROR (Transaction.java:64) - на счете : 817 требуется перевести: 4618
+2022-02-01 11:25:28,505 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 17
+2022-02-01 11:25:28,505 +0300 [pool-1-thread-4] ERROR (Transaction.java:64) - на счете : 817 требуется перевести: 1471
+2022-02-01 11:25:28,862 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 17
+2022-02-01 11:25:28,881 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 17
+2022-02-01 11:25:29,236 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 17
+2022-02-01 11:25:29,236 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: b9CsK на счет: kEE0c - сумма: 373
+2022-02-01 11:25:29,426 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 18
+2022-02-01 11:25:29,662 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 18
+2022-02-01 11:25:29,662 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: EgIBM на счет: kEE0c - сумма: 3569
+2022-02-01 11:25:30,178 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 19
+2022-02-01 11:25:30,178 +0300 [pool-1-thread-2] INFO  (Transaction.java:56) - pool-1-thread-2 перевод со счета: kEE0c на счет: abNAY - сумма: 3238
+2022-02-01 11:25:30,182 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 20
+2022-02-01 11:25:30,182 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: EgIBM на счет: b9CsK - сумма: 1399
+2022-02-01 11:25:30,212 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 21
+2022-02-01 11:25:30,321 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 21
+2022-02-01 11:25:30,321 +0300 [pool-1-thread-6] INFO  (Transaction.java:56) - pool-1-thread-6 перевод со счета: abNAY на счет: EgIBM - сумма: 2471
+2022-02-01 11:25:30,576 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 22
+2022-02-01 11:25:30,576 +0300 [pool-1-thread-3] INFO  (Transaction.java:56) - pool-1-thread-3 перевод со счета: kEE0c на счет: b9CsK - сумма: 4980
+2022-02-01 11:25:30,994 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 23
+2022-02-01 11:25:31,163 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 23
+2022-02-01 11:25:31,163 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: b9CsK на счет: abNAY - сумма: 3393
+2022-02-01 11:25:31,278 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 24
+2022-02-01 11:25:31,278 +0300 [pool-1-thread-2] ERROR (Transaction.java:64) - на счете : 3430 требуется перевести: 3467
+2022-02-01 11:25:31,615 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 24
+2022-02-01 11:25:31,615 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: abNAY на счет: EgIBM - сумма: 2988
+2022-02-01 11:25:31,752 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 25
+2022-02-01 11:25:31,828 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 25
+2022-02-01 11:25:31,897 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 25
+2022-02-01 11:25:31,897 +0300 [pool-1-thread-1] INFO  (Transaction.java:56) - pool-1-thread-1 перевод со счета: b9CsK на счет: abNAY - сумма: 508
+2022-02-01 11:25:32,168 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 26
+2022-02-01 11:25:32,168 +0300 [pool-1-thread-6] INFO  (Transaction.java:56) - pool-1-thread-6 перевод со счета: EgIBM на счет: b9CsK - сумма: 3246
+2022-02-01 11:25:32,423 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 27
+2022-02-01 11:25:32,423 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: abNAY на счет: b9CsK - сумма: 3996
+2022-02-01 11:25:32,687 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 28
+2022-02-01 11:25:32,687 +0300 [pool-1-thread-2] ERROR (Transaction.java:64) - на счете : 2712 требуется перевести: 4559
+2022-02-01 11:25:32,880 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 28
+2022-02-01 11:25:32,880 +0300 [pool-1-thread-7] ERROR (Transaction.java:64) - на счете : 2712 требуется перевести: 4779
+2022-02-01 11:25:32,996 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 28
+2022-02-01 11:25:32,996 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: kEE0c на счет: abNAY - сумма: 1659
+2022-02-01 11:25:33,230 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 29
+2022-02-01 11:25:33,270 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 29
+2022-02-01 11:25:33,270 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: abNAY на счет: EgIBM - сумма: 1015
+2022-02-01 11:25:33,271 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 30
+2022-02-01 11:25:33,526 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 30
+2022-02-01 11:25:33,599 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 30
+2022-02-01 11:25:34,120 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 30
+2022-02-01 11:25:34,371 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 30
+2022-02-01 11:25:34,503 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 30
+2022-02-01 11:25:34,514 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 30
+2022-02-01 11:25:34,531 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 30

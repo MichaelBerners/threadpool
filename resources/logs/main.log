@@ -1,0 +1,90 @@
+2022-02-01 11:25:59,561 +0300 [pool-1-thread-2] INFO  (Transaction.java:56) - pool-1-thread-2 перевод со счета: ZYLDA на счет: oIsJQ - сумма: 3949
+2022-02-01 11:25:59,564 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: 8Adbp на счет: ZYLDA - сумма: 1245
+2022-02-01 11:25:59,566 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: 8Adbp на счет: ZYLDA - сумма: 2571
+2022-02-01 11:25:59,568 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: oIsJQ на счет: ZYLDA - сумма: 3692
+2022-02-01 11:25:59,568 +0300 [pool-1-thread-3] INFO  (Transaction.java:56) - pool-1-thread-3 перевод со счета: oIsJQ на счет: ZYLDA - сумма: 3445
+2022-02-01 11:25:59,570 +0300 [pool-1-thread-1] INFO  (Transaction.java:56) - pool-1-thread-1 перевод со счета: ZYLDA на счет: 4BITr - сумма: 4353
+2022-02-01 11:25:59,571 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: ZYLDA на счет: 4BITr - сумма: 2245
+2022-02-01 11:26:00,967 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 7
+2022-02-01 11:26:00,967 +0300 [pool-1-thread-1] INFO  (Transaction.java:56) - pool-1-thread-1 перевод со счета: 8Adbp на счет: 4BITr - сумма: 4487
+2022-02-01 11:26:01,179 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 8
+2022-02-01 11:26:01,181 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: ZYLDA на счет: 4BITr - сумма: 4187
+2022-02-01 11:26:01,221 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 9
+2022-02-01 11:26:01,221 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: 8Adbp на счет: 4BITr - сумма: 1589
+2022-02-01 11:26:01,329 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 10
+2022-02-01 11:26:01,387 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 10
+2022-02-01 11:26:01,395 +0300 [pool-1-thread-3] ERROR (Transaction.java:64) - на счете : 108 требуется перевести: 708
+2022-02-01 11:26:01,423 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 10
+2022-02-01 11:26:01,423 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: oIsJQ на счет: 8Adbp - сумма: 4815
+2022-02-01 11:26:01,477 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 11
+2022-02-01 11:26:01,477 +0300 [pool-1-thread-6] INFO  (Transaction.java:56) - pool-1-thread-6 перевод со счета: ZYLDA на счет: 4BITr - сумма: 3817
+2022-02-01 11:26:01,504 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 12
+2022-02-01 11:26:01,504 +0300 [pool-1-thread-7] ERROR (Transaction.java:64) - на счете : 1997 требуется перевести: 3580
+2022-02-01 11:26:02,339 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 12
+2022-02-01 11:26:02,425 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 12
+2022-02-01 11:26:02,426 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: oIsJQ на счет: ZYLDA - сумма: 1129
+2022-02-01 11:26:02,445 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 13
+2022-02-01 11:26:02,445 +0300 [pool-1-thread-8] ERROR (Transaction.java:64) - на счете : 4923 требуется перевести: 4960
+2022-02-01 11:26:02,518 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 13
+2022-02-01 11:26:02,519 +0300 [pool-1-thread-6] INFO  (Transaction.java:56) - pool-1-thread-6 перевод со счета: 8Adbp на счет: ZYLDA - сумма: 341
+2022-02-01 11:26:02,666 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 14
+2022-02-01 11:26:02,666 +0300 [pool-1-thread-2] INFO  (Transaction.java:56) - pool-1-thread-2 перевод со счета: ZYLDA на счет: oIsJQ - сумма: 410
+2022-02-01 11:26:02,688 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 15
+2022-02-01 11:26:02,976 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 15
+2022-02-01 11:26:03,037 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 15
+2022-02-01 11:26:03,037 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: oIsJQ на счет: ZYLDA - сумма: 631
+2022-02-01 11:26:03,864 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 16
+2022-02-01 11:26:03,864 +0300 [pool-1-thread-1] ERROR (Transaction.java:64) - на счете : 647 требуется перевести: 2180
+2022-02-01 11:26:03,933 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 16
+2022-02-01 11:26:03,933 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: ZYLDA на счет: oIsJQ - сумма: 558
+2022-02-01 11:26:03,985 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 17
+2022-02-01 11:26:03,985 +0300 [pool-1-thread-6] ERROR (Transaction.java:64) - на счете : 1205 требуется перевести: 3999
+2022-02-01 11:26:04,197 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 17
+2022-02-01 11:26:04,197 +0300 [pool-1-thread-3] INFO  (Transaction.java:56) - pool-1-thread-3 перевод со счета: 8Adbp на счет: 4BITr - сумма: 1385
+2022-02-01 11:26:04,316 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 18
+2022-02-01 11:26:04,316 +0300 [pool-1-thread-7] INFO  (Transaction.java:56) - pool-1-thread-7 перевод со счета: ZYLDA на счет: 8Adbp - сумма: 3501
+2022-02-01 11:26:04,374 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 19
+2022-02-01 11:26:04,454 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 19
+2022-02-01 11:26:04,454 +0300 [pool-1-thread-2] ERROR (Transaction.java:64) - на счете : 1205 требуется перевести: 4481
+2022-02-01 11:26:04,861 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 19
+2022-02-01 11:26:04,861 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: 8Adbp на счет: 4BITr - сумма: 3420
+2022-02-01 11:26:05,294 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 20
+2022-02-01 11:26:05,294 +0300 [pool-1-thread-3] ERROR (Transaction.java:64) - на счете : 3278 требуется перевести: 4519
+2022-02-01 11:26:05,312 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 20
+2022-02-01 11:26:05,312 +0300 [pool-1-thread-8] INFO  (Transaction.java:56) - pool-1-thread-8 перевод со счета: 4BITr на счет: ZYLDA - сумма: 3294
+2022-02-01 11:26:05,349 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 21
+2022-02-01 11:26:05,465 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 21
+2022-02-01 11:26:05,465 +0300 [pool-1-thread-7] ERROR (Transaction.java:64) - на счете : 1205 требуется перевести: 4825
+2022-02-01 11:26:05,822 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 21
+2022-02-01 11:26:05,822 +0300 [pool-1-thread-1] INFO  (Transaction.java:56) - pool-1-thread-1 перевод со счета: 4BITr на счет: ZYLDA - сумма: 1433
+2022-02-01 11:26:05,942 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 22
+2022-02-01 11:26:05,942 +0300 [pool-1-thread-2] INFO  (Transaction.java:56) - pool-1-thread-2 перевод со счета: ZYLDA на счет: oIsJQ - сумма: 2125
+2022-02-01 11:26:06,146 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 23
+2022-02-01 11:26:06,146 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: 8Adbp на счет: ZYLDA - сумма: 185
+2022-02-01 11:26:06,166 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 24
+2022-02-01 11:26:06,166 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: 8Adbp на счет: oIsJQ - сумма: 327
+2022-02-01 11:26:06,409 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 25
+2022-02-01 11:26:06,409 +0300 [pool-1-thread-3] INFO  (Transaction.java:56) - pool-1-thread-3 перевод со счета: 8Adbp на счет: 4BITr - сумма: 996
+2022-02-01 11:26:06,930 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 26
+2022-02-01 11:26:06,930 +0300 [pool-1-thread-6] ERROR (Transaction.java:64) - на счете : 1770 требуется перевести: 3262
+2022-02-01 11:26:07,076 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 26
+2022-02-01 11:26:07,076 +0300 [pool-1-thread-8] ERROR (Transaction.java:64) - на счете : 1770 требуется перевести: 3345
+2022-02-01 11:26:07,241 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 26
+2022-02-01 11:26:07,241 +0300 [pool-1-thread-1] ERROR (Transaction.java:64) - на счете : 1770 требуется перевести: 2113
+2022-02-01 11:26:07,371 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 26
+2022-02-01 11:26:07,570 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 26
+2022-02-01 11:26:07,570 +0300 [pool-1-thread-5] INFO  (Transaction.java:56) - pool-1-thread-5 перевод со счета: 8Adbp на счет: oIsJQ - сумма: 1186
+2022-02-01 11:26:07,824 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 27
+2022-02-01 11:26:07,824 +0300 [pool-1-thread-3] INFO  (Transaction.java:56) - pool-1-thread-3 перевод со счета: ZYLDA на счет: 4BITr - сумма: 2183
+2022-02-01 11:26:07,826 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 28
+2022-02-01 11:26:07,826 +0300 [pool-1-thread-2] INFO  (Transaction.java:56) - pool-1-thread-2 перевод со счета: 4BITr на счет: oIsJQ - сумма: 917
+2022-02-01 11:26:08,125 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 29
+2022-02-01 11:26:08,125 +0300 [pool-1-thread-4] INFO  (Transaction.java:56) - pool-1-thread-4 перевод со счета: 4BITr на счет: oIsJQ - сумма: 128
+2022-02-01 11:26:08,300 +0300 [pool-1-thread-8] INFO  (Transaction.java:38) - 30
+2022-02-01 11:26:08,698 +0300 [pool-1-thread-5] INFO  (Transaction.java:38) - 30
+2022-02-01 11:26:08,821 +0300 [pool-1-thread-1] INFO  (Transaction.java:38) - 30
+2022-02-01 11:26:08,908 +0300 [pool-1-thread-6] INFO  (Transaction.java:38) - 30
+2022-02-01 11:26:09,218 +0300 [pool-1-thread-2] INFO  (Transaction.java:38) - 30
+2022-02-01 11:26:09,362 +0300 [pool-1-thread-7] INFO  (Transaction.java:38) - 30
+2022-02-01 11:26:09,390 +0300 [pool-1-thread-3] INFO  (Transaction.java:38) - 30
+2022-02-01 11:26:09,762 +0300 [pool-1-thread-4] INFO  (Transaction.java:38) - 30
