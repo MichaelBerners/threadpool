@@ -9,9 +9,9 @@ public class Transaction implements Runnable {
 
     final static Logger logger = org.apache.log4j.Logger.getLogger(Transaction.class);
 
-    AtomicInteger count = new AtomicInteger(0);
+    private AtomicInteger count = new AtomicInteger(0);
 
-    Random random = new Random();
+    private Random random = new Random();
 
     private List<Account> list;
 
