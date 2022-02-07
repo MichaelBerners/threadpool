@@ -1,12 +1,18 @@
 package ru.example.threadpool.transaction;
 
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.stereotype.Component;
+
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+@Component
+public class Main implements CommandLineRunner {
 
-public class Main {
-    public static void main(String[] args) {
+
+    @Override
+    public void run(String... args) throws Exception {
 
         ListAccount listAccount = new ListAccountImpl(4);
         List<Account> list = listAccount.getListAccount();
@@ -19,5 +25,6 @@ public class Main {
         }
 
         executor.shutdown();
+
     }
 }
